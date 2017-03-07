@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <assemblyIdentity name="簡單加法器.application" version="1.0.0.0" publicKeyToken="3f13d67047ab60bb" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="簡單加法器" asmv2:product="簡單加法器" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="http://hp-nc4000/%E7%B0%A1%E5%96%AE%E5%8A%A0%E6%B3%95%E5%99%A8.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\簡單加法器_1_0_0_0\簡單加法器.exe.manifest" size="6777">
+      <assemblyIdentity name="簡單加法器.exe" version="1.0.0.0" publicKeyToken="3f13d67047ab60bb" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>q3yD4S6ZReVYRiP/uD+e/Xa3KUY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=HP-NC4000\Administrator" issuerKeyHash="a95390ae9adebfe24b8bdb1a317f04c02ddbe539" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>OpJIL92ulZdMSqLGG4y8iZkyK6s=</DigestValue></Reference></SignedInfo><SignatureValue>Ep/iVhYLgu4fJecwSaNhwzlqVf5s6O3/bJ+W+cfU/0yUYcB0z+GZmC1hwouveIDaVyoeCzoAvRLdq5s0HsN5Mca8pq5kU0pM4s1O1y44ZQjHYaJnWYs9+k9WaY+ol0QSBWd2hefvNrgJtyC6A6jyFZw1RKtfMMtaq8eZoyy5g8M=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qfR6afkKMV3+zKHQPA1jEfO0juORqvZfuTsx88DxhhNOJjDZue8NipFPMNtO4RYIItTxWHg1l/YFpHaBQVGFC0UMVmOZWl9O+iZ2K+LQz0OH9t6tbAWajjHOFa+ArYDPsg/xeqbSkM6HiY+0BrbQBqT0z+zwcHwjkOMtXPrrm8M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ab2b329989bc8c1bc6a24a4c9795aedd2f48923a" Description="" Url=""><as:assemblyIdentity name="簡單加法器.application" version="1.0.0.0" publicKeyToken="3f13d67047ab60bb" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=HP-NC4000\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>OqwPCCy0xMYrcInxNtBiJGEZcpA=</DigestValue></Reference></SignedInfo><SignatureValue>EEPgsL6tY7MXbd2QlIQUsPoHevoCbbsOG2FHmIPJ3CQddQ9f85VtlM3DynW8zeviywh+1EKdBSlCVfDC793Yg2CkzPBWadwUwG1xvUeUCn4qj2Lo8zUVYI/xe2bLgGdR82VxlP512jvPGBj0npHOs++f/V8X+ZxFuNOqCdLVmQM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qfR6afkKMV3+zKHQPA1jEfO0juORqvZfuTsx88DxhhNOJjDZue8NipFPMNtO4RYIItTxWHg1l/YFpHaBQVGFC0UMVmOZWl9O+iZ2K+LQz0OH9t6tbAWajjHOFa+ArYDPsg/xeqbSkM6HiY+0BrbQBqT0z+zwcHwjkOMtXPrrm8M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVqgAwIBAgIQI14LjzWNHYJBOAEpziBv/jAJBgUrDgMCHQUAMDkxNzA1BgNVBAMeLgBIAFAALQBOAEMANAAwADAAMABcAEEAZABtAGkAbgBpAHMAdAByAGEAdABvAHIwHhcNMTAxMjA2MDgzNzU3WhcNMTExMjA2MTQzNzU3WjA5MTcwNQYDVQQDHi4ASABQAC0ATgBDADQAMAAwADAAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Hpp+QoxXf7ModA8DWMR87SO45Gq9l+5OzHzwPGGE04mMNm57w2KkU8w207hFggi1PFYeDWX9gWkdoFBUYULRQxWY5laX076JnYr4tDPQ4f23q1sBZqOMc4Vr4CtgM+yD/F6ptKQzoeJj7QGttAGpPTP7PBwfCOQ4y1c+uubwwIDAQABMAkGBSsOAwIdBQADgYEAG1U3aU9Btbos3ziOxEC3nBcYeiYXUapS9lnDbsdOIwpUbuKTnjqsaVUTInsJ8Bktrfoev/oK9LCz8m7D9d54imxEjJuSIHGtbgykp216u2xPpKS4s1gdDQahIiNdigtoF1ObAHf0YU108qPhnYQ5kFh4p7jVfMQkpHad8w5/a4Q=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

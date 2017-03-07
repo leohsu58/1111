@@ -1,0 +1,14 @@
+C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\求三數總和與平均\求三數總和與平均\bin\Debug\求三數總和與平均.exe
+C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\求三數總和與平均\求三數總和與平均\bin\Debug\求三數總和與平均.pdb
+C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\求三數總和與平均\求三數總和與平均\bin\Debug\求三數總和與平均.xml
+C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\求三數總和與平均\求三數總和與平均\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\求三數總和與平均\求三數總和與平均\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\求三數總和與平均\求三數總和與平均\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\求三數總和與平均\求三數總和與平均\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\求三數總和與平均\求三數總和與平均\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\求三數總和與平均\求三數總和與平均\obj\x86\Debug\求三數總和與平均.exe
+C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\求三數總和與平均\求三數總和與平均\obj\x86\Debug\求三數總和與平均.xml
+C:\Documents and Settings\regi\my documents\visual studio 2010\Projects\求三數總和與平均\求三數總和與平均\obj\x86\Debug\求三數總和與平均.pdb
+F:\VB2010\ch2\ex-求三數總和與平均\求三數總和與平均\obj\x86\Debug\求三數總和與平均.exe
+F:\VB2010\ch2\ex-求三數總和與平均\求三數總和與平均\obj\x86\Debug\求三數總和與平均.xml
+F:\VB2010\ch2\ex-求三數總和與平均\求三數總和與平均\obj\x86\Debug\求三數總和與平均.pdb

@@ -1,0 +1,11 @@
+H:\mybook\VB\VB2010\ch2\攝氏轉華氏\攝氏轉華氏\bin\Debug\攝氏轉華氏.exe
+H:\mybook\VB\VB2010\ch2\攝氏轉華氏\攝氏轉華氏\bin\Debug\攝氏轉華氏.pdb
+H:\mybook\VB\VB2010\ch2\攝氏轉華氏\攝氏轉華氏\bin\Debug\攝氏轉華氏.xml
+H:\mybook\VB\VB2010\ch2\攝氏轉華氏\攝氏轉華氏\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mybook\VB\VB2010\ch2\攝氏轉華氏\攝氏轉華氏\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\mybook\VB\VB2010\ch2\攝氏轉華氏\攝氏轉華氏\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\mybook\VB\VB2010\ch2\攝氏轉華氏\攝氏轉華氏\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\mybook\VB\VB2010\ch2\攝氏轉華氏\攝氏轉華氏\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\mybook\VB\VB2010\ch2\攝氏轉華氏\攝氏轉華氏\obj\x86\Debug\攝氏轉華氏.exe
+H:\mybook\VB\VB2010\ch2\攝氏轉華氏\攝氏轉華氏\obj\x86\Debug\攝氏轉華氏.xml
+H:\mybook\VB\VB2010\ch2\攝氏轉華氏\攝氏轉華氏\obj\x86\Debug\攝氏轉華氏.pdb

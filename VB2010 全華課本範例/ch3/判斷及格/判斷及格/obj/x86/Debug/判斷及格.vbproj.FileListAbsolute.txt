@@ -1,0 +1,11 @@
+H:\mybook\VB\VB2010\ch3\判斷及格\判斷及格\bin\Debug\判斷及格.exe
+H:\mybook\VB\VB2010\ch3\判斷及格\判斷及格\bin\Debug\判斷及格.pdb
+H:\mybook\VB\VB2010\ch3\判斷及格\判斷及格\bin\Debug\判斷及格.xml
+H:\mybook\VB\VB2010\ch3\判斷及格\判斷及格\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mybook\VB\VB2010\ch3\判斷及格\判斷及格\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\mybook\VB\VB2010\ch3\判斷及格\判斷及格\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\mybook\VB\VB2010\ch3\判斷及格\判斷及格\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\mybook\VB\VB2010\ch3\判斷及格\判斷及格\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\mybook\VB\VB2010\ch3\判斷及格\判斷及格\obj\x86\Debug\判斷及格.exe
+H:\mybook\VB\VB2010\ch3\判斷及格\判斷及格\obj\x86\Debug\判斷及格.xml
+H:\mybook\VB\VB2010\ch3\判斷及格\判斷及格\obj\x86\Debug\判斷及格.pdb

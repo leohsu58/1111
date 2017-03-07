@@ -1,0 +1,11 @@
+H:\mybook\VB\VB2010\ch2\計算圓周與圓面積\計算圓周與圓面積\bin\Debug\計算圓周與圓面積.exe
+H:\mybook\VB\VB2010\ch2\計算圓周與圓面積\計算圓周與圓面積\bin\Debug\計算圓周與圓面積.pdb
+H:\mybook\VB\VB2010\ch2\計算圓周與圓面積\計算圓周與圓面積\bin\Debug\計算圓周與圓面積.xml
+H:\mybook\VB\VB2010\ch2\計算圓周與圓面積\計算圓周與圓面積\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mybook\VB\VB2010\ch2\計算圓周與圓面積\計算圓周與圓面積\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\mybook\VB\VB2010\ch2\計算圓周與圓面積\計算圓周與圓面積\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\mybook\VB\VB2010\ch2\計算圓周與圓面積\計算圓周與圓面積\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\mybook\VB\VB2010\ch2\計算圓周與圓面積\計算圓周與圓面積\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\mybook\VB\VB2010\ch2\計算圓周與圓面積\計算圓周與圓面積\obj\x86\Debug\計算圓周與圓面積.exe
+H:\mybook\VB\VB2010\ch2\計算圓周與圓面積\計算圓周與圓面積\obj\x86\Debug\計算圓周與圓面積.xml
+H:\mybook\VB\VB2010\ch2\計算圓周與圓面積\計算圓周與圓面積\obj\x86\Debug\計算圓周與圓面積.pdb

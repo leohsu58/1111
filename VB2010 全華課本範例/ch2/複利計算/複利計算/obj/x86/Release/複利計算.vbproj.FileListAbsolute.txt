@@ -1,0 +1,15 @@
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\bin\Release\複利計算.exe.manifest
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\bin\Release\複利計算.application
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\bin\Release\複利計算.exe
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\bin\Release\複利計算.pdb
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\bin\Release\複利計算.xml
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\obj\x86\Release\ResolveAssemblyReference.cache
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\obj\x86\Release\WindowsApplication1.Form1.resources
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\obj\x86\Release\WindowsApplication1.Resources.resources
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\obj\x86\Release\GenerateResource.read.1.tlog
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\obj\x86\Release\GenerateResource.write.1.tlog
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\obj\x86\Release\複利計算.exe.manifest
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\obj\x86\Release\複利計算.application
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\obj\x86\Release\複利計算.exe
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\obj\x86\Release\複利計算.xml
+G:\mybook\VB\VB2010\ch2\複利計算\複利計算\obj\x86\Release\複利計算.pdb
